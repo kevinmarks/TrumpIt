@@ -1,0 +1,21 @@
+TrumpIt game - meant to be configurable
+
+get set of cards
+deal out to 2 players
+show player 1 card
+show player 2 card
+while p2.count and p1.count:
+    player 1 picks field
+    if p1 field>p2 field:
+        p1 gets p2 card
+    else
+        p2 gets p1 card
+show who won
+
+repeat
+
+Basic data structure:
+cards[]
+card ={'image':url, fields = { name:value}}
+
+
